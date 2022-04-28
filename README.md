@@ -5,6 +5,7 @@ Enter in ANY word of any length (preferably larger than 2 letters, otherwise res
 from the letters of your inputted word. Currently it only keeps the length the same, so it won't output a 3 letter word if you give it a 9 letter word.
 
 WHY THOUGH?:
+
 Because this was originally a student program I made my first year of university. I completly rewrote the way that it generates the randomized words
 as well as adding an option to filter out duplicates. I wanted something simple to improve as opposed to my grand ideas that I don't have time for, 
 and I found this on my hard drive.
