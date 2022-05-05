@@ -1,0 +1,5 @@
+﻿5/5/2022
+- Added a line of text that displays how many "Words" were found. This includes a seperate counter if any "Real" words were found which does NOT include the "Fake" words
+- Added a dictionary and a class that compares an input string vs the entire dictionary
+- Adjusted the way the found "Words" are displayed to the user. Currently only "Real" words will be displayed. (This will be changed later with an option.)
+- 
