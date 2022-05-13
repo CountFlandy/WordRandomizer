@@ -2,4 +2,20 @@
 - Added a line of text that displays how many "Words" were found. This includes a seperate counter if any "Real" words were found which does NOT include the "Fake" words
 - Added a dictionary and a class that compares an input string vs the entire dictionary
 - Adjusted the way the found "Words" are displayed to the user. Currently only "Real" words will be displayed. (This will be changed later with an option.)
-- 
+
+
+5/6/2022
+- Removed duplicate code
+- Changed the rnd orderby shuffle into a fisher-yates shuffle
+
+5/12/2022
+- Removed Duplicate filtering option, it did nothing anyways
+- Replaced Duplicate filtering option with "Fake Word Filtering" option. Saying yes to this will only display real dictionary tested words to the console. Saying no displays all outputs
+- Program now checks for words smaller than the given words length
+- Program now continues on forever, until there are no more possible words to generate (long as the words are longer than 3)
+
+5/13/2022
+- Results can now be printed to a text file
+- New algorithim for finding max possible letter combinations implemented (please let me know if my horrible math is wrong)
+- Added a fallback "timer" that quits the loop when all possible "words" have been found (Dependent on if my above math was right...)
+- User can now choose to input a new word instead of restarting program each time (via a loop)
