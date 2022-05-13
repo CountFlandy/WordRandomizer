@@ -12,12 +12,16 @@ and I found this on my hard drive.
 
 CAN IT BE IMPROVED?:
 
+
 Yes, there are two TODO's I left, as well as a few other ideas I'd like to improve eventually:
 1: Textfile outputs could be actually organized, as opposed to "REAL WORD - xxxx" and "FAKE WORD - xxxx"
 2: I'm sure my algorithims are bad. My math is possibly wrong. Not good at math, so double check it if you suspect something is off..
 3: An actual UI could be nice, but not needed. That's not something I do well, however.
 
+
 WILL I IMPROVE IT ANYMORE FROM HERE?:
+
+
 Unless I decide to port this to something with a UI, I doubt it. Unless you report a bug, then I'll try to fix it the best I can.
 
 
